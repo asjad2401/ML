@@ -1,0 +1,1 @@
+This folder contains all the practice files I used/created during my Machine learning specialization. It holds files that implements concepts as simple as a simple linear regression code as well as multilayer perceptrons implemented in numpy and tensorflow. 
